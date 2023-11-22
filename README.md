@@ -1,7 +1,7 @@
 # MIXXX2Rekordbox
 
 
-**Please Backup any important librarys before using (e.g. the Rekordbox Library and the MIXXX Library) as there is absolutely no warranty that this script works. It might mess up your library information on either side (allthough on the MIXXX side it actually just queries the DB, but better save then sorry)**
+**Please Backup any important librarys before using (e.g. the Rekordbox Library and the MIXXX Library) as there is absolutely no warranty that this script works. It might mess up your library information on either side (allthough on the MIXXX side it actually just queries the DB and on the Rekordbox side you import the information manually and you can choose what to commit to your library, but better save then sorry)**
 
 This is a small Python script that exports a MIXXX Library (From the SQLite DB) to an XML File that can be imported in Rekordbox
 
